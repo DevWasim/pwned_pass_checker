@@ -26,8 +26,8 @@ The script uses the [Pwned Passwords API](https://haveibeenpwned.com/API/v3#Pwne
 
 ```bash
 python passwordchecker.py MyStrongPassword Password123
-reponse // MyStrongPassword was not found. Carry on.
-// Password123 was found 456789 times... you should change the password.
+MyStrongPassword was not found. Carry on.
+Password123 was found 456789 times... you should change the password.
 ```
 
 ## Dependencies
